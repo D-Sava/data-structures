@@ -1,4 +1,4 @@
-public class Stack {
+public class BuiltinStack {
 
     public void stack(){
         //Creation of stack - LIFO principle (Last in, first out)
@@ -30,5 +30,9 @@ public class Stack {
         int index = stack.search(101);
         System.out.println("Position: " +index);
 
+    }
+
+    public static void main(String[] args) {
+        
     }
 }
