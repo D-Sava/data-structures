@@ -1,3 +1,4 @@
+package src;
 import java.util.Hashtable;
 
 // Hashtable = A data structure that stores unique keys to values ex.<Integer, String>

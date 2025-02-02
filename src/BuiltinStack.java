@@ -1,3 +1,4 @@
+package src;
 public class BuiltinStack {
     public static void main(String[] args) {
         //Creation of stack - LIFO principle (Last in, first out)
